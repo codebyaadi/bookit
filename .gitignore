@@ -5,6 +5,9 @@ logs
 **/*.back.*
 .netlify
 .vscode
+temp/
+tmp/
+_tmp/
 
 node_modules
 bower_components
